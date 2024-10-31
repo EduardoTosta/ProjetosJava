@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Ainda não tem uma conta? Clique aqui e cadastre-se!</string>
+    <string name="title_casastro">Cadastre-se</string>
+    <string name="Cadastrar">Cadastrar</string>
+
+</resources>
